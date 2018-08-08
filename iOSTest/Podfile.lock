@@ -1,0 +1,17 @@
+PODS:
+  - RappleProgressHUD (2.4.1)
+  - SDWebImage (4.3.0):
+    - SDWebImage/Core (= 4.3.0)
+  - SDWebImage/Core (4.3.0)
+
+DEPENDENCIES:
+  - RappleProgressHUD
+  - SDWebImage (~> 4.0)
+
+SPEC CHECKSUMS:
+  RappleProgressHUD: 1d97178abc04ea9e89e4df74227064ded389ce24
+  SDWebImage: 6da6c8bca115addc4de8613362e1b15f66333825
+
+PODFILE CHECKSUM: 9312b347d16136007bd6f33b98cd82e708917601
+
+COCOAPODS: 1.2.1
